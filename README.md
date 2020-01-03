@@ -1,8 +1,6 @@
 
 
-     White Canvas
-
-     <title>white canvas</title>
+     White Canvas<br><br>
 
 
 
@@ -12,4 +10,6 @@
 
   <img src="rumi1.jpg" width="250"> <meta charset="utf-8">
 
-  <h1>루미</hl><img src="aust3.jpg" width="250">호주
+  <h1>루미</hl><img src="aust3.jpg" width="250">호주 사진<br><br><br><br><br>
+  
+  미완성작
