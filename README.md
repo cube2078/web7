@@ -1,10 +1,9 @@
-<head>
 
-     <h1>White Canvas</h1>
+
+     White Canvas
 
      <title>white canvas</title>
 
-</head>
 
 
   This is <u>white canvas's</u> room.<br><br><br><br>
